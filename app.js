@@ -139,7 +139,7 @@ if (procesarCompra) {
 }
 
 stockProductos.forEach((prod) => {
-  const { id, nombre, precio, desc, img, cantidad } = prod;
+  const { id, nombre, precio, desc, img, cantidad, stock } = prod;
   if (contenedor) {
     contenedor.innerHTML += `
     <div class="card mt-3" style="width: 18rem;">
@@ -190,6 +190,7 @@ const mostrarCarrito = () => {
         <p>Producto: ${nombre}</p>
       <p>Precio: ${precio}</p>
       <p>Cantidad :${cantidad}</p>
+
       <button class="btn btn-danger"  onclick="eliminarProducto(${id})">Eliminar producto</button>
         </div>
       </div>
@@ -319,3 +320,4 @@ function enviarCompra(e) {
     }, 3000);
   }
 }
+
