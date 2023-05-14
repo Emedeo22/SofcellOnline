@@ -22,7 +22,7 @@ const stockProductos = [
     nombre: "Apple iPhone 7 Plus",
     cantidad: 1,
     stock: 1,
-    desc: "<br>Color: Jet black <br> Capacidad: 32gb <br> Pantalla: 5,5 <br>Rendimiento de batería: 100%<br>Incluye: caja original y cable.<br>Blindex de regalo<br><br>",
+    desc: "<br>Color: Jet black <br> Capacidad: 32gb <br> Pantalla: 5,5 <br>Rendimiento de batería: 100%<br>Incluye: caja original y cable.<br>Blindex de regalo<br>",
     precio: 95000,
     img: "img/2apple-iphone-7-plus-black-128-gb-used.png",
   },
