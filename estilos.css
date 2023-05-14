@@ -87,7 +87,7 @@ a{
 
 
 
-@media (min-width: 1346px) {
+@media (min-width: 1115px) {
     .row {
       --bs-gutter-x: 1.5rem;
     }
