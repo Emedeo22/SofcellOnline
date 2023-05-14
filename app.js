@@ -320,6 +320,3 @@ function enviarCompra(e) {
     }, 3000);
   }
 }
-localStorage.clear()
-
- }
