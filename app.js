@@ -49,7 +49,7 @@ const stockProductos = [
     nombre: "<br>Motorola Moto G22",
     cantidad: 1,
     stock: 0,
-    desc: "<br><br>Color: Gris<br>Pantalla IPS: 6.5<br>Capacidad: 128gb<br>Memoria ram: 4gb<br>Desbloqueo: Huella, reconocimiento facial<br>Batería: 5000 mAh<br><br><br><br>",
+    desc: "<br><br>Color: Gris<br>Pantalla IPS: 6.5<br>Capacidad: 128gb<br>Memoria ram: 4gb<br>Desbloqueo: Huella, reconocimiento facial<br>Batería: 5000 mAh<br><br><br><br><br><br>",
     precio: 60000,
     img: "img/1Motog22.png",
   },
