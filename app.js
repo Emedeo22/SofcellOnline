@@ -51,7 +51,7 @@ const stockProductos = [
     stock: 1,
     desc: "<br><br>Color: Gris<br>Pantalla IPS: 6.5<br>Capacidad: 128gb<br>Memoria ram: 4gb<br>Desbloqueo: Huella, reconocimiento facial<br>Batería: 5000 mAh<br><br><br><br><br><br>",
     precio: 60000,
-    img: "img/motog22.png",
+    img: "img/1Motog22.png",
   },
   {
     id: 7,
