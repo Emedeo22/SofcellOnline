@@ -180,7 +180,9 @@ footer {
         --bs-btn-hover-border-color: #6e35d8;
         --bs-btn-focus-shadow-rgb: 49,132,253;
         --bs-btn-active-color: #fff;
-        --bs-btn-active-bg: #760dae; }
+        --bs-btn-active-bg: #760dae;
+         width: 170px;
+}
 
         .mx-5 {
             color:#000
