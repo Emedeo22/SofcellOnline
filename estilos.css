@@ -1,0 +1,251 @@
+.imagen{
+    max-width:100%;
+}
+
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+body{
+    
+    background-color: #9684c0;
+    overflow-x: hidden;
+
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+.img-carrito{
+    width:200px;
+    padding:0px;
+} 
+.modal-content{
+    background-color: #E3D8D6;
+}
+.parrafo{
+    font-weight: 900;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.boton{
+    opacity:0;
+}
+
+
+.main-container {
+    width: 377px;
+    margin: auto;
+  position: relative;
+  background-image: url(img/background/8bd8d80ced9c1ecda328fb7f22f0a1bc.png);
+  border-radius: 16px;
+  border: 2px solid #b398e7;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 5px 5px 5px #b398e7;
+  
+  
+}
+
+
+
+@media (min-width: 1115px) {
+    .main-container {
+        width: 1115px;
+    }
+}
+
+.min-vw-100 {
+    min-width: 70vw!important;
+}
+
+
+.bg-dark {
+    --bs-bg-opacity: 0;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.row {
+    --bs-gutter-x: 0.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(0.5 * var(--bs-gutter-x));
+    margin-left: calc(5.5 * var(--bs-gutter-x));
+    
+}
+
+
+
+@media (min-width: 1346px) {
+    .row {
+      --bs-gutter-x: 1.5rem;
+    }
+  }
+  
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255); }
+
+.header__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    width: 100%;
+    
+}
+
+
+
+footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    
+   
+
+    
+  }
+  
+  .redes-sociales {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+    
+   
+    
+
+  }
+  
+  .link_redes {
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   
+    padding: 4px;
+    width: 35px;
+    height: 35px;
+    border: 2px solid #b398e7;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 5px 5px 5px #b398e7;
+ 
+    transition: .3s;
+
+
+  }
+
+  .ig_icon {
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    margin-right: 30px;
+    margin-top: 5px;
+    
+
+  }
+
+
+  .card {
+    --bs-card-spacer-y: 2rem;
+    --bs-card-spacer-x: 3rem;
+    }
+
+    .btn-primary {
+        --bs-btn-color: #000;
+        --bs-btn-bg: #b398e7;
+        --bs-btn-border-color: #590dfd;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #b398e7;
+        --bs-btn-hover-border-color: #6e35d8;
+        --bs-btn-focus-shadow-rgb: 49,132,253;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #760dae; }
+
+        .mx-5 {
+            color:#000
+
+        }
+
+        row mt-5 {
+            margin-top: 5px;
+
+
+           
+        }
+
+        .mt-3 {
+            margin-top: 4rem!important;
+    
+        }
+
+    .container {
+        width: 80%;
+        margin: auto;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        padding: 2rem;
+        border: 2px solid #b398e7;
+        border-radius: 5px;
+        background-color: #fff;
+        box-shadow: 5px 5px 5px #b398e7;
+        background-image: url(img/background/8bd8d80ced9c1ecda328fb7f22f0a1bc.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+    .form-control { 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #495057;
+        
+        border-radius: 5px;
+        border: 2px solid #b398e7;
+        background-color: #fff;
+        box-shadow: 5px 5px 5px #b398e7;
+       
+      
+        
+    }
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #b398e7;
+}
+
+.usage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+    width: 100%;
+}
