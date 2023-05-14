@@ -76,7 +76,7 @@ const stockProductos = [
     nombre:"Motorola Moto e7i Power",
     cantidad: 1,
     stock: 1,
-    desc: "<br>Color: Naranja<br>Capacidad: 32gb<br>Memoria ram: 2gb<br>Batería: 5000 mAh<br>Desbloqueo: Huella digital<br>Incluye: Caja con cargador original<br><br>",
+    desc: "<br>Color: Naranja<br>Capacidad: 32gb<br>Memoria ram: 2gb<br>Batería: 5000 mAh<br>Desbloqueo: Huella digital<br>Incluye: Caja con cargador original<br><br><br>",
     precio: 37000,
     img: "img/3269963.png",
   },
