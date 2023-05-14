@@ -249,3 +249,8 @@ footer {
     height: 7vh;
     width: 100%;
 }
+
+.card-stock {
+    color:#ff0000;
+    font-weight: 700;
+}
