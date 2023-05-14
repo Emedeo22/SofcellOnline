@@ -178,7 +178,7 @@ const mostrarCarrito = () => {
         <div>
         <p>Producto: ${nombre}</p>
       <p>Precio: ${precio}</p>
-      <p>Stock :${cantidad}</p>
+      <p>Cantidad :${cantidad}</p>
       <button class="btn btn-danger"  onclick="eliminarProducto(${id})">Eliminar producto</button>
         </div>
       </div>
