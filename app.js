@@ -24,7 +24,7 @@ const stockProductos = [
     stock: 1,
     desc: "<br>Color: Jet black <br> Capacidad: 32gb <br> Pantalla: 5,5 <br>Rendimiento de batería: 100%<br>Incluye: caja original y cable.<br>Blindex de regalo<br><br><br>",
     precio: 95000,
-    img: "img/iPhone_7_Plus_-_Matt_Black_0299fef8-7299-489b-929b-7ad9a8b46e41_2000x.png",
+    img: "img/2apple-iphone-7-plus-black-128-gb-used.png",
   },
   {
     id: 4,
