@@ -66,9 +66,9 @@ const stockProductos = [
     id: 8,
     nombre: "Sansung Galaxy A13",
     cantidad: 1,
-    stock: 1,
+    stock: 0,
     desc: "<br>Color: Celeste<br>Capacidad: 128gb<br>Memoria ram: 4gb<br>Batería: 5000 mAh<br>Desbloqueo: Huella lateral y reconocimiento facial<br>Android: 12<br>Incluye: Caja original y cargador original<br>",
-    precio: 40000,
+    precio: 62000,
     img: "img/Galaxy-A13-celeste-3-800x800.png",
   },
   {
