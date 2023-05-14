@@ -50,7 +50,7 @@ const stockProductos = [
   {
     id: 7,
     nombre: "Moto e22",
-    cantidad: 1,
+    cantidad: 2,
     desc: "Color: Azul<br>Capacidad: 32gb<br>Memoria ram: 3gb<br>Batería: 4020mAh<br>Desbloqueo: Huella digital y reconocimiento facial<br>Android: 12<br>Sistema de audio dobly atmos<br>Incluye: Caja original y cargador original<br>",
     precio: 49000,
     img: "img/motorola-moto-e22-removebg-preview.png",
