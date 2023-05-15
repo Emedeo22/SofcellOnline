@@ -103,7 +103,7 @@ const stockProductos = [
   nombre: "Apple iPhone 6s Plus",
   cantidad: 1,
   stock: 1,
-  desc: "<br>Color: Space Gray<br> Capacidad: 64gb<br>Rendimiento de batería: 79%<br>Incluye: caja original y cable.<br>Blindex de regalo<br><br><br>",
+  desc: "<br>Color: Space Gray<br> Capacidad: 64gb<br>Rendimiento de batería: 79%<br>Incluye: caja original y cable.<br>Blindex de regalo<br><br>",
   precio: 59000,
   img: "img/iphone6plus.png",
 },
