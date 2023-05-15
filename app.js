@@ -96,7 +96,7 @@ const stockProductos = [
   stock: 1,
   desc: "<br>Color: Silver <br> Capacidad: 128gb<br>Rendimiento de batería: 88%<br>Incluye: caja original y cable.<br>Blindex de regalo<br><br><br><br>",
   precio: 69500,
-  img: "img/iphone-7.png",
+  img: "img/AppleiPhone7-Silver-.png",
 },
 {
   id: 12,
