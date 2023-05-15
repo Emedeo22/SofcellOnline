@@ -89,6 +89,24 @@ const stockProductos = [
     precio: 40000,
     img: "img/164041-1200-auto.png",
  },
+  {
+  id: 11,
+  nombre: "Apple iPhone 7",
+  cantidad: 1,
+  stock: 1,
+  desc: "<br>Color: Silver <br> Capacidad: 128gb<br>Rendimiento de batería: 88%<br>Incluye: caja original y cable.<br>Blindex de regalo",
+  precio: 69500,
+  img: "img/iphone-7.png",
+},
+{
+  id: 12,
+  nombre: "Apple iPhone 6s",
+  cantidad: 1,
+  stock: 1,
+  desc: "<br>Color: Space Gray<br> Capacidad: 64gb<br>Rendimiento de batería: 79%<br>Incluye: caja original y cable.<br>Blindex de regalo",
+  precio: 59000,
+  img: "img/iphone6plus.png",
+},
 ];
 let carrito = [];
 
